@@ -34,7 +34,7 @@ If successful – the lab participants or notebook users will
 
 
 ## More Documentation
-- [Overview](https://github.com/mamoonraja/call-center-think18/blob/master/resources/docs/)
+- [Overview]https://github.com/mamoonraja/call-center-think18/blob/master/resources/docs/LAB-8672%20-%20Call%20Center%20Instrumentation%20%26%20Analytics%20-%20Data%20Discovery%20Overview%20Deck%20V1.pdf)
 - [Detailed](https://github.com/mamoonraja/call-center-think18/blob/master/resources/docs/Call%20Center%20Instrumentation%20%26%20Analytics%20-%20Watson-Call-Center-Think18%20Documentation%20V1.pdf)
 
 ## Youtube Videos
