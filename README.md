@@ -14,7 +14,7 @@ Enterprises spend more than $1 trillion on 250 billion customer service calls ea
 - [Step 2](https://github.com/mamoonraja/call-center-think18/blob/master/notebooks/Step2-natural-language-understanding.ipynb) - Natural Language Understanding (NLU) - extracts features concepts, entities, keywords, categories/topics,  sentiment and emotion
 - [Step 3](https://github.com/mamoonraja/call-center-think18/blob/master/notebooks/Step3-natural-language-classifier.ipynb) - Natural Language Classifier (NLC) - is a user trained classification service, with user defined “ground truth” that classifies text chunks
 - [Step 4](https://github.com/mamoonraja/call-center-think18/blob/master/notebooks/Step4-tone-analysis.ipynb) - Tone Analyzer – uses linguistic analysis to detect emotional and language tones in written text
-- [Step 5](https://github.com/mamoonraja/call-center-think18/blob/master/notebooks/Step5-CallCenterAnalytics.ipynb) - Call Center Analytics – analyzes and visualizes the data signal to allow for interpretation of data and in cases, actionable insights
+- [Step 5](https://github.com/mamoonraja/call-center-think18/blob/master/notebooks/Step5-call-center-analytics.ipynb) - Call Center Analytics – analyzes and visualizes the data signal to allow for interpretation of data and in cases, actionable insights
 
 ## Beginner Audience & Focus on Basics
 
