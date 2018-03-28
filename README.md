@@ -36,19 +36,19 @@ This lab requires the following services which you can create on IBM Cloud.
 To create these services, you need to have an IBM Cloud account. You can sign up for an IBM Cloud account if you don't already have one.
 
 ### Cloud Object Storage
--	Log into your IBM Cloud account
+-	Log into your [IBM Cloud](https://ibm.com/cloud) account
 -	Navigate to Catalog.
 -	Click on Storage category in the left navigation column.
 -	Select Object Storage service, provide a name for the service (or use default name), choose the Lite plan, and click Create.
 
 ### Apache Spark
--	Log into your IBM Cloud account
+-	Log into your [IBM Cloud](https://ibm.com/cloud) account
 -	Navigate to Catalog.
 -	Click on Data & Analytics category in the left navigation column.
 -	Select Apache Spark service, provide a name for the service (or use default name), choose the Lite plan (only use Lite plan for evaluation), and click Create.
 
 ### Speech to Text
--	Log into your IBM Cloud account
+-	Log into your [IBM Cloud](https://ibm.com/cloud) account
 -	Navigate to Catalog.
 -	Click on Watson category in the left navigation column.
 -	Select Speech to Text service, provide a name for the service (or use default name), choose the Lite plan (only use Lite plan for evaluation), and click Create.
@@ -61,7 +61,7 @@ To create these services, you need to have an IBM Cloud account. You can sign
 -	Copy the credentials as we'll need them in the notebook.
 
 ### Natural Language Understanding
--	Log into your IBM Cloud account
+-	Log into your [IBM Cloud](https://ibm.com/cloud) account
 -	Navigate to Catalog.
 -	Click on Watson category in the left navigation column.
 -	Select Natural Language Understanding service, provide a name for the service (or use default name), choose the Lite plan (only use Lite plan for evaluation), and click Create.
@@ -74,7 +74,7 @@ To create these services, you need to have an IBM Cloud account. You can sign
 -	Copy the credentials as we'll need them in the notebook.
 
 ### Natural Language Classifier
--	Log into your IBM Cloud account
+-	Log into your [IBM Cloud](https://ibm.com/cloud) account
 -	Navigate to Catalog.
 -	Click on Watson category in the left navigation column.
 -	Select Speech to Text service, provide a name for the service (or use default name), choose the Lite plan (only use Lite plan for evaluation), and click Create.
@@ -87,7 +87,7 @@ To create these services, you need to have an IBM Cloud account. You can sign
 -	Copy the credentials as we'll need them in the notebook.
 
 ### Tone Analyzer
--	Log into your IBM Cloud account
+-	Log into your [IBM Cloud](https://ibm.com/cloud) account
 -	Navigate to Catalog.
 -	Click on Watson category in the left navigation column.
 -	Select Speech to Text service, provide a name for the service (or use default name), choose the Lite plan (only use Lite plan for evaluation), and click Create.
