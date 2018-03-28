@@ -1,8 +1,8 @@
 # Call Center Instrumentation & Analytics (CCIA)
 
-This document provides guidance and background for a hands-on lab (in Python) leveraging [Watson Studio]() and [Watson AI services](). 
+This document provides guidance and background for a hands-on lab (in Python) leveraging [Watson Studio](https://console.bluemix.net/catalog/services/watson-studio) and [Watson AI services](https://www.ibm.com/watson/developer/). 
 
-This lab is broken into five notebooks which provide an end-to-end solution for a very common and powerful use case, the Call Center Instrumentation and Analytics (CCIA) pattern. These notebooks leverage several [Watson AI services]() to help organizations extract useful information from the unstructured data (audio files) to better understand the unstructured "dark data" that arises from phone calls to call centers. 
+This lab is broken into five notebooks which provide an end-to-end solution for a very common and powerful use case, the Call Center Instrumentation and Analytics (CCIA) pattern. These notebooks leverage several [Watson AI services](https://www.ibm.com/watson/developer/) to help organizations extract useful information from the unstructured data (audio files) to better understand the unstructured "dark data" that arises from phone calls to call centers. 
 
 ## Usecase
 
