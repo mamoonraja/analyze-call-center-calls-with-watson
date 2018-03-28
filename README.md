@@ -53,11 +53,14 @@ To create these services, you need to have an IBM Cloud account. You can sign
 -	Click on Watson category in the left navigation column.
 -	Select Speech to Text service, provide a name for the service (or use default name), choose the Lite plan (only use Lite plan for evaluation), and click Create.
 -	Once the service is created, its info page is loaded. Click on Service Credentials in the left navigation column. If no credentials are created, click on New Credentials to create a new set of credentials.
+```
 {
   "url": "https://stream.watsonplatform.net/speech-to-text/api",
   "username": "**********",
   "password": "**********"
 }
+```
+
 -	Copy the credentials as we'll need them in the notebook.
 
 ### Natural Language Understanding
@@ -66,11 +69,13 @@ To create these services, you need to have an IBM Cloud account. You can sign
 -	Click on Watson category in the left navigation column.
 -	Select Natural Language Understanding service, provide a name for the service (or use default name), choose the Lite plan (only use Lite plan for evaluation), and click Create.
 -	Once the service is created, its info page is loaded. Click on Service Credentials in the left navigation column. If no credentials are created, click on New Credentials to create a new set of credentials.
+```
 {
   "url": "https://gateway.watsonplatform.net/natural-language-understanding/api",
   "username": "**********",
   "password": "**********"
 }
+```
 -	Copy the credentials as we'll need them in the notebook.
 
 ### Natural Language Classifier
@@ -79,11 +84,13 @@ To create these services, you need to have an IBM Cloud account. You can sign
 -	Click on Watson category in the left navigation column.
 -	Select Speech to Text service, provide a name for the service (or use default name), choose the Lite plan (only use Lite plan for evaluation), and click Create.
 -	Once the service is created, its info page is loaded. Click on Service Credentials in the left navigation column. If no credentials are created, click on New Credentials to create a new set of credentials.
+```
 {
   "url": "https://gateway.watsonplatform.net/natural-language-classifier/api",
   "username": "**********",
   "password": "**********"
 }
+```
 -	Copy the credentials as we'll need them in the notebook.
 
 ### Tone Analyzer
@@ -92,11 +99,13 @@ To create these services, you need to have an IBM Cloud account. You can sign
 -	Click on Watson category in the left navigation column.
 -	Select Speech to Text service, provide a name for the service (or use default name), choose the Lite plan (only use Lite plan for evaluation), and click Create.
 -	Once the service is created, its info page is loaded. Click on Service Credentials in the left navigation column. If no credentials are created, click on New Credentials to create a new set of credentials.
+```
 {
   "url": "https://gateway.watsonplatform.net/tone-analyzer/api",
   "username": "**********",
   "password": "**********"
 }
+```
 -	Copy the credentials as we'll need them in the notebook.
 
 ### Watson Studio
