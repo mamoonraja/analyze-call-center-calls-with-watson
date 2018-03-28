@@ -129,16 +129,15 @@ To execute these notebooks:
 https://github.com/mamoonraja/call-center-think18/blob/master/notebooks/Step1-speech-to-text.ipynb
 6. Click **Create Notebook**
 This would load the notebook in Watson Studio
-7. Execute the steps of the notebook.
-8. After completing all the steps of notebook 1, repeat steps 4-7 for the the notebooks corresponding to steps 2, 3, and 4:
-
+7. Execute the steps of the notebook. Make sure the steps of each notebook are run to completion before proceeding to the sub-sequent notebooks.
+8. Repeat steps 4-7 for the the notebooks corresponding to steps 2, 3, and 4:
+```
 Step2: https://github.com/mamoonraja/call-center-think18/blob/master/notebooks/Step2-natural-language-understanding.ipynb
 
 Step3: https://github.com/mamoonraja/call-center-think18/blob/master/notebooks/Step3-natural-language-classifier.ipynb
 
 Step4: https://github.com/mamoonraja/call-center-think18/blob/master/notebooks/Step4-tone-analysis.ipynb
-
-Make sure the steps of each notebook are run to completion before proceeding to the sub-sequent notebooks.
+```
 9. In your project, under  **Assets** tab, click on New Notebook.
 10. Provide a name for the notebook, and click on the **From URL** tab and provide the URL link for the notebook:
 https://github.com/mamoonraja/call-center-think18/blob/master/notebooks/Step5-call-center-analytics.ipynb
