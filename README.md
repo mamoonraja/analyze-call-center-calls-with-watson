@@ -144,7 +144,9 @@ https://github.com/mamoonraja/call-center-think18/blob/master/notebooks/Step5-ca
 11. For the runtime, select the Apache Spark service instance you had associated with your project.
 7. Click **Create Notebook**
 This would load the notebook in Watson Studio.
-8. Execute the steps of the notebook.
+8. Make sure your kernel says **Python 3.5 with Spark 2.1**
+If not, then go to the **Kernel** menu drop down, select **Change Kernel** and choose the **Python 3.5 with Spark 2.1** kernel.
+9. Execute the steps of the notebook.
 
 ## Success Metrics
 
