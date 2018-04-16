@@ -170,7 +170,7 @@ If successful – the lab participants or notebook users will
 - [Think2018 Lab 8672 Demo - Watson Studio + CCIA Analytics - Step 2 NLU](https://youtu.be/nrezUTCKf2k)
 - [Think2018 Lab 8672 Demo - Watson Studio + CCIA Analytics - Step 3 NLC](https://youtu.be/z6NAjlfAFZ8)
 - [Think2018 Lab 8672 Demo - Watson Studio + CCIA Analytics – Step 4 TONE](https://youtu.be/HR2PvL3CBn0)
-- [Think2018 Lab 8672 Demo - Watson Studio + CCIA Analytics - Step 5]()
+- [Think2018 Lab 8672 Demo - Watson Studio + CCIA Analytics - Step 5](https://www.youtube.com/watch?v=DeF_wPixxxk)
 
 
 ## Other Links:
